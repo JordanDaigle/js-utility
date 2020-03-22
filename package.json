@@ -1,5 +1,5 @@
 {
-  "name": "js-utility",
+  "name": "@jdaigle/utils",
   "version": "1.0.0",
   "description": "\"# js-utility\"",
   "main": "jsonUtility.js",
