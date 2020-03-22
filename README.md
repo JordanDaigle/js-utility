@@ -1,6 +1,6 @@
 # Utility javascript modules
 
-##JSONUtility
+## JSONUtility
   tryParse
   isValid
 
