@@ -1,1 +1,6 @@
-# My personnal utility javascript library
+# Utility javascript modules
+
+##JSONUtility
+  tryParse
+  isValid
+
